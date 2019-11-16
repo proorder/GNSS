@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="notification_enable">#4CAF50</color>
+    <color name="notification_float">#FFEB3B</color>
+    <color name="notification_autonom">#03A9F4</color>
+    <color name="notification_dgps">#9C27B0</color>
+    <color name="notification_disable">#E91E1E</color>
+</resources>
